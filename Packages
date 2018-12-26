@@ -6,10 +6,10 @@ Description: An awesome MobileSubstrate tweak! BRCAutoLead BRCAutoLead BRCAutoLe
 Maintainer: NNM
 Author: NNM
 Section: Tweaks
-Version: 0.0.1-487+debug
-Installed-Size: 16532
-MD5sum: 60ce6e8d6fbfbf7a1879786998e9ef07
-Size: 3277416
+Version: 1.7.1-7+debug
+Installed-Size: 16604
+MD5sum: 3274c5fa9a4bbde8a7a6171518200abf
+Size: 3284990
 Filename: debs/nnm.brc.auto.forsell.deb
 Depiction: https:///depictions/?p=nnm.brc.auto.forsell
 
