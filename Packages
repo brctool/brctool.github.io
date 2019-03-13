@@ -41,11 +41,26 @@ Description: An awesome MobileSubstrate tweak! BRCAutoLead BRCAutoLead BRCAutoLe
 Maintainer: NNM
 Author: NNM
 Section: Tweaks
+Version: 1.7.1-7+debug
+Installed-Size: 16604
+MD5sum: 3274c5fa9a4bbde8a7a6171518200abf
+Size: 3284990
+Filename: debs/nnm.brc.auto.forsell.deb
+Depiction: https:///depictions/?p=nnm.brc.auto.forsell
+
+Package: nnm.brc.auto.forsell
+Name: BRCAutoTool
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport,jetslammed
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak! BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead
+Maintainer: NNM
+Author: NNM
+Section: Tweaks
 Version: 1.7.1-23+debug
 Installed-Size: 16608
 MD5sum: e1f38e192e972f86103fad85cfbf14e9
 Size: 3289710
-Filename: debs/nnm.brc.auto.forsell.deb
+Filename: debs/nnm.brc.auto.forsell_1.7.1-23+debug_iphoneos-arm.deb
 Depiction: https:///depictions/?p=nnm.brc.auto.forsell
 
 Package: nnm.brc.auto.sml
