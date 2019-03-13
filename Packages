@@ -10,6 +10,7 @@ Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx, com.repo.xarold.com.locationchangerx
 Icon: file:///Applications/LocationChanger.app/icon.png
 Maintainer: Xarold <contact@xarold.com>
+
 MD5sum: 1bb46f8fca755a4ce3faa97e1a96e7e6
 Size: 450236
 Filename: debs/com.repo.xarold.com.locationchangerx.deb
@@ -26,6 +27,7 @@ Section: Tweaks
 Maintainer: Xarold <contact@xarold.com>
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.repo.xarold.com.xcon, com.yourcompany.dtvrunner
+
 MD5sum: 70703aba111cd308121a1e5015e9ebfb
 Size: 136574
 Filename: debs/com.repo.xarold.com.xcon.deb
@@ -46,20 +48,20 @@ Size: 3284990
 Filename: debs/nnm.brc.auto.forsell.deb
 Depiction: https:///depictions/?p=nnm.brc.auto.forsell
 
-Package: nnm.brc.auto.sml
-Name: BRCAutoSML
-Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport
+Package: nnm.brc.auto.forsell
+Name: BRCAutoTool
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport,jetslammed
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak! BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead
 Maintainer: NNM
 Author: NNM
 Section: Tweaks
-Version: 0.0.1-1+debug
-Installed-Size: 16520
-MD5sum: 627b490ca5c5a73c44133fbaa81b21ee
-Size: 3269430
+Version: 1.7.1-23+debug
+Installed-Size: 16608
+MD5sum: e1f38e192e972f86103fad85cfbf14e9
+Size: 3289710
 Filename: debs/nnm.brc.auto.sml.deb
-Depiction: https:///depictions/?p=nnm.brc.auto.sml
+Depiction: https:///depictions/?p=nnm.brc.auto.forsell
 
 Package: nnm.mbrc.tool.n
 Name: BRC Tool
