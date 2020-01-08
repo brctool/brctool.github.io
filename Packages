@@ -1,79 +1,26 @@
-Package: com.repo.xarold.com.locationchangerx
-Name: LocationFaker(8,9,10,11)
-Version: 2.2
-Architecture: iphoneos-arm
-Description: change your location using a map
-Depiction: http://repo.xarold.com/depiction.php?id=locationchangerx
-Author: Cunstuck 
-Section: Tweaks
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: org.thebigboss.locationchangerx, com.repo.xarold.com.locationchangerx
-Icon: file:///Applications/LocationChanger.app/icon.png
-Maintainer: Xarold <contact@xarold.com>
-MD5sum: 1bb46f8fca755a4ce3faa97e1a96e7e6
+MD5sum: 
 Size: 450236
 Filename: debs/com.repo.xarold.com.locationchangerx.deb
-Depiction: https:///depictions/?p=com.repo.xarold.com.locationchangerx
+Depiction: https:///depictions/?p=
 
-Package: com.repo.xarold.com.xcon
-Name: xCon
-Version: 42~beta4
-Architecture: iphoneos-arm
-Description: bypass anti-jailbreak protection
-Depiction: https://repo.xarold.com/pack/xcon
-Author: Lunatik
-Section: Tweaks
-Maintainer: Xarold <contact@xarold.com>
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.repo.xarold.com.xcon, com.yourcompany.dtvrunner
-MD5sum: 70703aba111cd308121a1e5015e9ebfb
+MD5sum: 
 Size: 136574
 Filename: debs/com.repo.xarold.com.xcon.deb
-Depiction: https:///depictions/?p=com.repo.xarold.com.xcon
+Depiction: https:///depictions/?p=
 
-Package: nnm.brc.auto.forsell
-Name: BRCAutoTool
-Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport,jetslammed
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak! BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead
-Maintainer: NNM
-Author: NNM
-Section: Tweaks
-Version: 1.7.1-23+debug
-Installed-Size: 16608
-MD5sum: e1f38e192e972f86103fad85cfbf14e9
+MD5sum: 
 Size: 3289710
 Filename: debs/nnm.brc.auto.forsell.deb
-Depiction: https:///depictions/?p=nnm.brc.auto.forsell
+Depiction: https:///depictions/?p=
 
-Package: nnm.brc.auto.sml
-Name: BRCAutoSML
-Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa,kr.iolate.simulatetouch,jp.ashikase.mousesupport,ch.ringwald.hidsupport
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak! BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead BRCAutoLead
-Maintainer: NNM
-Author: NNM
-Section: Tweaks
-Version: 0.0.1-1+debug
-Installed-Size: 16520
-MD5sum: 627b490ca5c5a73c44133fbaa81b21ee
+MD5sum: 
 Size: 3269430
 Filename: debs/nnm.brc.auto.sml.deb
-Depiction: https:///depictions/?p=nnm.brc.auto.sml
+Depiction: https:///depictions/?p=
 
-Package: nnm.mbrc.tool.n
-Name: BRC Tool
-Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa
-Architecture: iphoneos-arm
-Description: Backup, Restore App - Change Device Info for iPhone/iPad
-Maintainer: NNM
-Author: NNM
-Section: Utilities
-Version: 2.9-38+debug
-Installed-Size: 20064
-MD5sum: c701d85fd7a116cc07d7b10f5d1198f0
+MD5sum: 
 Size: 3463394
 Filename: debs/nnm.mbrc.tool.n.deb
-Depiction: https:///depictions/?p=nnm.mbrc.tool.n
+Depiction: https:///depictions/?p=
 
 
