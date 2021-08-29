@@ -48,6 +48,21 @@ Size: 3463394
 Filename: debs/nnm.mbrc.tool.n.deb
 Depiction: https:///depictions/?p=nnm.mbrc.tool.n
 
+Package: nnm.mbrc.tool.n1
+Name: BRC aH
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Backup, Restore App - Change Device Info for iPhone/iPad
+Maintainer: NNM
+Author: NNM
+Section: Utilities
+Version: 3.0-1+debug
+Installed-Size: 14476
+MD5sum: 667a3af6a2a4a850df6334e19461c2bd
+Size: 3392106
+Filename: debs/nnm.mbrc.tool.n1.deb
+Depiction: https:///depictions/?p=nnm.mbrc.tool.n1
+
 Package: nnm.mbrc.tool12
 Name: BRC Tool iOS 11-12
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
