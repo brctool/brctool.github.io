@@ -56,10 +56,10 @@ Description: Backup, Restore App - Change Device Info for iPhone/iPad
 Maintainer: NNM
 Author: NNM
 Section: Utilities
-Version: 3.0-6+debug
-Installed-Size: 14468
-MD5sum: bfbe2b8ca333f220b5bd551dba006bb9
-Size: 3397802
+Version: 3.0-9+debug
+Installed-Size: 14464
+MD5sum: b62c29a427b61d795b3b2d7a089a2162
+Size: 3396928
 Filename: debs/nnm.mbrc.tool.n1.deb
 Depiction: https:///depictions/?p=nnm.mbrc.tool.n1
 
